@@ -1,0 +1,14 @@
+[
+    {
+        "ma": "HV001",
+        "ten": "L\u00fd Ti\u1ec3u M\u1eabn",
+        "diem": 9.7,
+        "gioi_tinh": true
+    },
+    {
+        "ma": "HV002",
+        "ten": "L\u00fd Ti\u1ec3u Long",
+        "diem": 8,
+        "gioi_tinh": false
+    }
+]

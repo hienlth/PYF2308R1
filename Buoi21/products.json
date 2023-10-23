@@ -1,0 +1,182 @@
+[
+    {
+        "masp": 1,
+        "tensp": "iPhone 9",
+        "dongia": 549,
+        "loai": "Apple"
+    },
+    {
+        "masp": 2,
+        "tensp": "iPhone X",
+        "dongia": 899,
+        "loai": "Apple"
+    },
+    {
+        "masp": 3,
+        "tensp": "Samsung Universe 9",
+        "dongia": 1249,
+        "loai": "Samsung"
+    },
+    {
+        "masp": 4,
+        "tensp": "OPPOF19",
+        "dongia": 280,
+        "loai": "OPPO"
+    },
+    {
+        "masp": 5,
+        "tensp": "Huawei P30",
+        "dongia": 499,
+        "loai": "Huawei"
+    },
+    {
+        "masp": 6,
+        "tensp": "MacBook Pro",
+        "dongia": 1749,
+        "loai": "Apple"
+    },
+    {
+        "masp": 7,
+        "tensp": "Samsung Galaxy Book",
+        "dongia": 1499,
+        "loai": "Samsung"
+    },
+    {
+        "masp": 8,
+        "tensp": "Microsoft Surface Laptop 4",
+        "dongia": 1499,
+        "loai": "Microsoft Surface"
+    },
+    {
+        "masp": 9,
+        "tensp": "Infinix INBOOK",
+        "dongia": 1099,
+        "loai": "Infinix"
+    },
+    {
+        "masp": 10,
+        "tensp": "HP Pavilion 15-DK1056WM",
+        "dongia": 1099,
+        "loai": "HP Pavilion"
+    },
+    {
+        "masp": 11,
+        "tensp": "perfume Oil",
+        "dongia": 13,
+        "loai": "Impression of Acqua Di Gio"
+    },
+    {
+        "masp": 12,
+        "tensp": "Brown Perfume",
+        "dongia": 40,
+        "loai": "Royal_Mirage"
+    },
+    {
+        "masp": 13,
+        "tensp": "Fog Scent Xpressio Perfume",
+        "dongia": 13,
+        "loai": "Fog Scent Xpressio"
+    },
+    {
+        "masp": 14,
+        "tensp": "Non-Alcoholic Concentrated Perfume Oil",
+        "dongia": 120,
+        "loai": "Al Munakh"
+    },
+    {
+        "masp": 15,
+        "tensp": "Eau De Perfume Spray",
+        "dongia": 30,
+        "loai": "Lord - Al-Rehab"
+    },
+    {
+        "masp": 16,
+        "tensp": "Hyaluronic Acid Serum",
+        "dongia": 19,
+        "loai": "L'Oreal Paris"
+    },
+    {
+        "masp": 17,
+        "tensp": "Tree Oil 30ml",
+        "dongia": 12,
+        "loai": "Hemani Tea"
+    },
+    {
+        "masp": 18,
+        "tensp": "Oil Free Moisturizer 100ml",
+        "dongia": 40,
+        "loai": "Dermive"
+    },
+    {
+        "masp": 19,
+        "tensp": "Skin Beauty Serum.",
+        "dongia": 46,
+        "loai": "ROREC White Rice"
+    },
+    {
+        "masp": 20,
+        "tensp": "Freckle Treatment Cream- 15gm",
+        "dongia": 70,
+        "loai": "Fair & Clear"
+    },
+    {
+        "masp": 21,
+        "tensp": "- Daal Masoor 500 grams",
+        "dongia": 20,
+        "loai": "Saaf & Khaas"
+    },
+    {
+        "masp": 22,
+        "tensp": "Elbow Macaroni - 400 gm",
+        "dongia": 14,
+        "loai": "Bake Parlor Big"
+    },
+    {
+        "masp": 23,
+        "tensp": "Orange Essence Food Flavou",
+        "dongia": 14,
+        "loai": "Baking Food Items"
+    },
+    {
+        "masp": 24,
+        "tensp": "cereals muesli fruit nuts",
+        "dongia": 46,
+        "loai": "fauji"
+    },
+    {
+        "masp": 25,
+        "tensp": "Gulab Powder 50 Gram",
+        "dongia": 70,
+        "loai": "Dry Rose"
+    },
+    {
+        "masp": 26,
+        "tensp": "Plant Hanger For Home",
+        "dongia": 41,
+        "loai": "Boho Decor"
+    },
+    {
+        "masp": 27,
+        "tensp": "Flying Wooden Bird",
+        "dongia": 51,
+        "loai": "Flying Wooden"
+    },
+    {
+        "masp": 28,
+        "tensp": "3D Embellishment Art Lamp",
+        "dongia": 20,
+        "loai": "LED Lights"
+    },
+    {
+        "masp": 29,
+        "tensp": "Handcraft Chinese style",
+        "dongia": 60,
+        "loai": "luxury palace"
+    },
+    {
+        "masp": 30,
+        "tensp": "Key Holder",
+        "dongia": 30,
+        "loai": "Golden"
+    }
+]
