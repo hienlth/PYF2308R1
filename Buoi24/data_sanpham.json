@@ -1,0 +1,30 @@
+[
+    {
+        "ma_sp": 1001,
+        "ten_sp": "IPhone 15",
+        "don_gia": 2999000,
+        "so_luong": 7,
+        "loai": "Điện thoại"
+    },
+    {
+        "ma_sp": 1002,
+        "ten_sp": "IPad Gen 10 256GB 5G",
+        "don_gia": 12990000,
+        "so_luong": 17,
+        "loai": "Máy tính bảng"
+    },
+        {
+        "ma_sp": 1003,
+        "ten_sp": "IPhone 15 Pro Max",
+        "don_gia": 39990000,
+        "so_luong": 7,
+        "loai": "Điện thoại"
+    },
+    {
+        "ma_sp": 1005,
+        "ten_sp": "IPad Pro 2023",
+        "don_gia": 22990000,
+        "so_luong": 17,
+        "loai": "Máy tính bảng"
+    }
+]
